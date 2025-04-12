@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "D:\\Structure\\ML\\Text-Summarizer\\venv",
+    "python.terminal.activateEnvironment": false,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
